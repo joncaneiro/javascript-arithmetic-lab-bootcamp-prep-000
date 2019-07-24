@@ -18,12 +18,12 @@ function divide(a, b) {
 
 
 
-function inc(n) {
+function inc() {
   return n++
 }
 
 
-function dec(n) {
+function dec() {
   return n--
 }
 
