@@ -17,10 +17,10 @@ function divide(a, b) {
 }
 
 function inc(a) {
-  a++
+  console.log(a++)
 }
 
 function dec(a) {
-  a--
+  console.log(a--)
 }
 
