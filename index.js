@@ -22,12 +22,12 @@ function divide(a, b) {
 
 
 function inc() {
-  return n++
+  a++
 }
 
 
 function dec() {
-  return n--
+  a--
 }
 
 
