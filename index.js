@@ -20,15 +20,10 @@ function divide(a, b) {
 }
 
 
-
-function inc() {
   a++
-}
 
 
-function dec() {
   a--
-}
 
 
 
