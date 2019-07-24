@@ -1,4 +1,7 @@
 
+var a = 100
+var b = 200
+
 
 function add(a, b) {
   return a += b
