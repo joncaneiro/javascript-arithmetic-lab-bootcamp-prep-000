@@ -16,20 +16,20 @@ function divide(a, b) {
   return a /= b
 }
 
-         /*
 
-function inc(a) {
-  console.log(a++)  
+
+function inc(n) {
+  return n++
 }
 
-function dec(a) {
-  console.log(a--)
+
+function dec(n) {
+  return n--
 }
 
-          */
 
 
-function 
+
 
 
 
