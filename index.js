@@ -20,4 +20,7 @@ function inc(a) {
   a++
 }
 
-function dec(a)
+function dec(a) {
+  a--
+}
+
