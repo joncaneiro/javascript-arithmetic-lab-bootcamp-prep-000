@@ -16,11 +16,25 @@ function divide(a, b) {
   return a /= b
 }
 
+         /*
+
 function inc(a) {
-  console.log(a++)
+  console.log(a++)  
 }
 
 function dec(a) {
   console.log(a--)
 }
+
+          */
+
+
+function 
+
+
+
+
+
+
+
 
