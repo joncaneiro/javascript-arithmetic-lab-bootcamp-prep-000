@@ -16,6 +16,8 @@ function divide(a, b) {
   return a /= b
 }
 
-n++
+function inc(a) {
+  a++
+}
 
-n--
+function dec(a)
