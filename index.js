@@ -17,19 +17,14 @@ function divide(a, b) {
   return a /= b
 }
 
-
+var a = 20
 
 function inc() { 
-  var a = 20
-  return a += 1 
+  return a++
 }
 
 
 
-function dec() {
-  var a = 20
-  return a -= 1 
-}
 
 
 
