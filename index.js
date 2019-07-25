@@ -26,7 +26,7 @@ function dec(n) {
   return n -= 1 
 }
 
-parseInt('n' ,10)
+parseInt('n', 10)
 
 
 
