@@ -17,7 +17,7 @@ function divide(a, b) {
   return a /= b
 }
 
-var a = 100
+var a = 405
 
 
 function inc(n) {
