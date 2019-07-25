@@ -19,10 +19,7 @@ function divide(a, b) {
 
 var a = 405
 
-
-function inc(n) {
-  return a++
-}
+a++
 
 
 
