@@ -17,11 +17,7 @@ function divide(a, b) {
   return a /= b
 }
 
-var a = 405
-
-function inc(n) {
-  return ${a}++
-}
+a++
 
 
 
