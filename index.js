@@ -1,6 +1,4 @@
 
-var a = 100
-var b = 200
 
 
 function add(a, b) {
@@ -19,7 +17,7 @@ function divide(a, b) {
   return a /= b
 }
 
-
+let a = 100
   a++
 
 
