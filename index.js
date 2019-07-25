@@ -17,7 +17,18 @@ function divide(a, b) {
   return a /= b
 }
 
-fun
+function inc() { 
+  a += 1 
+}
+
+inc()
+
+function dec() {
+  a -= 1 
+}
+
+dec()
+
 
 
 
