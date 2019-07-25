@@ -22,7 +22,6 @@ var a = 405
 
 function inc(n) {
   return a++
-  console.log(n)
 }
 
 
