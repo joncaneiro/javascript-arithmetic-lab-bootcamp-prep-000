@@ -17,24 +17,20 @@ function divide(a, b) {
   return a /= b
 }
 
-var a = "20"
+
 
 function inc() { 
-  a += 1 
+  var a = 20
+  return a += 1 
 }
 
-inc()
-
-console.log(a)
 
 
 function dec() {
-  a -= 1 
+  var a = 20
+  return a -= 1 
 }
 
-dec()
-
-console.log(a)
 
 
 
