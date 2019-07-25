@@ -17,7 +17,7 @@ function divide(a, b) {
   return a /= b
 }
 
-a = 20
+var a = "20"
 
 function inc() { 
   a += 1 
