@@ -17,15 +17,6 @@ function divide(a, b) {
   return a /= b
 }
 
-var a = 100
-
-a++
-
-a 
-
-a--
-
-a 
 
 
 
