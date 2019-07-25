@@ -18,8 +18,7 @@ function divide(a, b) {
 }
 
 function inc(a) {
-  return a++
-  
+  console.log(a++)
 }
 
 
