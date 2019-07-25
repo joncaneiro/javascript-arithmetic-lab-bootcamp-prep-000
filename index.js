@@ -25,11 +25,18 @@ function inc() {
 
 inc()
 
+console.log(a)
+
+
 function dec() {
   a -= 1 
 }
 
 dec()
+
+console.log(a)
+
+
 
 
 
