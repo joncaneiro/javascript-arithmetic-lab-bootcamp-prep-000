@@ -17,11 +17,7 @@ function divide(a, b) {
   return a /= b
 }
 
-let a = 100;
-  a++
 
-let a = 100;
-  a--
 
 
 
